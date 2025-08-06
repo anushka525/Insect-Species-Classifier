@@ -49,7 +49,7 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/anushka525/Insect-Species-Classifier.git
-cd insect-classifier-streamlit
+
 Install dependencies:
 
 bash
@@ -67,15 +67,12 @@ Then open the provided local URL in your browser.
 bash
 Copy
 Edit
-insect-species-identifier/
+InsectIdentifierApp/
 ├── insect_identifier_app.py         # Main Streamlit app
 ├── insect_classifier_model.h5       # Trained CNN model
 ├── class_indices.json               # Label to class index mapping
 ├── requirements.txt                 # Python dependencies
 └── README.md                        # Project documentation
-
-📷 Sample Image
-To help you get started, we've included some example insect images in the `sample_images` folder. You can use these to test the app and see how well it performs!
 
 👩‍💻 Authors
 Anushka Srivastava
