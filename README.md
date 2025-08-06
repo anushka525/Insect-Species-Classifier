@@ -48,7 +48,7 @@ Developed by **Anushka Srivastava**, this project blends machine learning with a
 Clone the repo:
 
 ```bash
-git clone https://github.com/pragya-2765/insect-classifier-streamlit.git
+git clone https://github.com/anushka525/Insect-Species-Classifier.git
 cd insect-classifier-streamlit
 Install dependencies:
 
